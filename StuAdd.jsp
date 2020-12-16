@@ -1,4 +1,4 @@
-<%@ page import="com.test1.db.StudentDb" %>
+<%@ page import="com.test1.StudentDb" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
